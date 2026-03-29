@@ -34,7 +34,9 @@ The dataset includes:
 - Profit trends visualization
 - Interactive filters and slicers
 
-🔍 Key Insights
+🔍 Key Insights 
+![Super_Store_ Analysis_Dashboard](https://github.com/user-attachments/assets/da15d167-b9fa-4a7c-9765-d3a73cc52709)
+
 
 - High sales observed in certain regions but profit is low
 - Technology category generates high revenue
