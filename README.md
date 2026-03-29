@@ -43,7 +43,6 @@ The dataset includes:
 
 📸 Dashboard Preview
 
-https://github.com/akhilmayakoti3/superstore-sales-analysis-dashboard/blob/main/Super_Store_%20Analysis_Dashboard.jpeg?raw=true
 
 📈 Outcome
 
